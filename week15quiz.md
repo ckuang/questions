@@ -7,8 +7,8 @@ What does code below return?
 })
 ```
 Answer:
-<br />
-<br />
+
+
 
 ## Question 2
 What does code below return?
@@ -19,11 +19,10 @@ return a;
 }, {})
 ```
 Answer:
-<br />
-<br />
+
+
 ## Question 3 - BigO Notation
 Why is O(2n) equivalent to 0(n)?
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Question 4
 What are the time complexities of the following code examples?
 
@@ -65,18 +64,11 @@ for(let x = 0; x < 10; x++) {
 
 ```
 Answers -
-<br/>
-a)<br/><br/>
-b)<br/><br/>
-c)<br/><br/>
-d)<br/><br/><br/><br/><br/><br/> <br/>
 ## Question 5 - Stacks vs Queues
 How is the stack data structure different from the queue? Explain in terms of FIFO or FILO.
 Answer:
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Question 6 - Queues
 Explain how the typical customer service call center is actually an implementation of two queues. (hint: when you call the same call center, do you ever really get the same person helping you again?)
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Question 7 - Recursion
 Fill in the space to generate a recursive multiplication function.
 ```js
@@ -131,24 +123,15 @@ sum += add(10, 20);
 ```
 Answers -
 <br/>
-a)<br/><br/><br/><br/><br/>
-b)<br/><br/><br/><br/><br/>
-c)<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+a)
+b)
+c)
 
 ## Question 9
 ```js
 myMin([4, 6, 7, 3, 1, 6, 3]) //returns 1
 ```
 Write two `myMin()` functions: one that is O(n) and the other that is O(n^2).
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
 ## Question 10
 A palindrome is a word or phrase that is spelled the same forwards and backwards. Some examples of palindromes are 'mom', 'level', 'noon', and 'racecar'. Write a function called palindrome that takes in a string as an argument and returns true if it is a palindrome and false if it isn't. Do NOT use the `.reverse` method. Explain the time complexity of your solution in bigO notation.
 ```js
@@ -156,4 +139,3 @@ palindrome('mom'); //true
 palindrome('airplane'); //false
 palindrome('kayak'); //true
 ```
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
