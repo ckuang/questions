@@ -69,7 +69,7 @@ Answers -
 a)<br/><br/>
 b)<br/><br/>
 c)<br/><br/>
-d)<br/>
+d)<br/><br/>
 ## Question 5 - Stacks vs Queues
 How is the stack data structure different from the queue? Explain in terms of FIFO or FILO.
 Answer:
@@ -133,13 +133,16 @@ Answers -
 <br/>
 a)<br/><br/><br/><br/><br/>
 b)<br/><br/><br/><br/><br/>
-c)<br/><br/><br/><br/><br/>
+c)<br/><br/><br/><br/><br/><br/><br/>
 
 ## Question 9
 ```js
 myMin([4, 6, 7, 3, 1, 6, 3]) //returns 1
 ```
 Write two `myMin()` functions: one that is O(n) and the other that is O(n^2).
+<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
