@@ -69,7 +69,7 @@ Answers -
 a)<br/><br/>
 b)<br/><br/>
 c)<br/><br/>
-d)<br/><br/><br/><br/>
+d)<br/><br/><br/><br/><br/><br/> <br/>
 ## Question 5 - Stacks vs Queues
 How is the stack data structure different from the queue? Explain in terms of FIFO or FILO.
 Answer:
@@ -133,7 +133,7 @@ Answers -
 <br/>
 a)<br/><br/><br/><br/><br/>
 b)<br/><br/><br/><br/><br/>
-c)<br/><br/><br/><br/><br/><br/><br/><br/>
+c)<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Question 9
 ```js
