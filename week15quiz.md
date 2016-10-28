@@ -23,7 +23,7 @@ Answer:
 <br />
 ## Question 3 - BigO Notation
 Why is O(2n) equivalent to 0(n)?
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Question 4
 What are the time complexities of the following code examples?
 
@@ -139,7 +139,10 @@ c)<br/><br/><br/><br/><br/>
 ```js
 myMin([4, 6, 7, 3, 1, 6, 3]) //returns 1
 ```
-Write two `myMin()` functions: one that is O(n) and the other that is O(n^2)
+Write two `myMin()` functions: one that is O(n) and the other that is O(n^2).
+<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 ## Question 10
 A palindrome is a word or phrase that is spelled the same forwards and backwards. Some examples of palindromes are 'mom', 'level', 'noon', and 'racecar'. Write a function called palindrome that takes in a string as an argument and returns true if it is a palindrome and false if it isn't. Do NOT use the `.reverse` method. Explain the time complexity of your solution in bigO notation.
 ```js
